@@ -1,0 +1,117 @@
+.heading-223 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.svg-icon145 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.svg-wrapper15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.heading-2-discover-the-power-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 20px;
+}
+.any-boundaries-offering,
+.are-you-tired,
+.connectivity-and-data,
+.travels-look-no {
+  margin: 0;
+}
+.are-you-tired-container {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+}
+.changing-technology-has,
+.covering-major-regions,
+.populous-cities-in {
+  margin: 0;
+}
+.covering-major-regions-container {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+  display: inline-block;
+  max-width: 100%;
+}
+.hassle-free {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+  max-width: 100%;
+}
+.marvels-like-the,
+.nature-lover-youll,
+.stunning-natural-beauty,
+.when-it-comes {
+  margin: 0;
+}
+.when-it-comes-container {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+  display: inline-block;
+  max-width: 100%;
+}
+.and-navigate-through,
+.charges-with-the,
+.ensuring-a-seamless,
+.market-offering-the,
+.wherever-you-go {
+  margin: 0;
+}
+.ensuring-a-seamless-container {
+  height: 90px;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.background54 {
+  align-self: stretch;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 16px 16.5px;
+  box-sizing: border-box;
+  gap: 19.8px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 12px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .heading-223 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}

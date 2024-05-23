@@ -1,0 +1,170 @@
+.blank {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 9px;
+}
+.check,
+.overlay10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.overlay10 {
+  flex: 1;
+  border-radius: 40px;
+  background-color: rgba(255, 255, 255, 0.46);
+  padding: 9px 14px 9px 16px;
+}
+.check {
+  align-self: stretch;
+  padding: 0 72px 0 71px;
+}
+.check-your3 {
+  margin-right: -0.4000000000014552px;
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 97.4px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.check-your-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.device3 {
+  width: 54.4px;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  color: #4cff3c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  text-decoration: none;
+  min-width: 54.4px;
+  debug_commit: bf4bc93;
+}
+.device-name,
+.frame-parent56 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent56 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.device-name {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 16px;
+}
+.compatibility3 {
+  margin-right: -0.5999999999985448px;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 106px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.compatibility-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.in-our-list2 {
+  width: 78.3px;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  color: #0c0c0d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 78.3px;
+  debug_commit: bf4bc93;
+}
+.compatibility-wrapper-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: #4cff3c;
+}
+.compatibility-content,
+.device-name-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.device-name-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  text-align: center;
+  color: #0c0c0d;
+}
+.compatibility-content {
+  flex: 1;
+  align-items: flex-start;
+  gap: 4px;
+}
+.check-device {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 23px;
+}
+.background33,
+.image-icon54 {
+  align-self: stretch;
+  overflow: hidden;
+}
+.image-icon54 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.background33 {
+  width: 230px;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+  box-sizing: border-box;
+  gap: 12px;
+  text-align: left;
+  font-size: 17px;
+  color: rgba(12, 12, 13, 0.46);
+  font-family: Inter;
+}

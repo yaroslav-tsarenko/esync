@@ -1,0 +1,201 @@
+.header-child {
+  height: 50px;
+  width: 985px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #ade2a9;
+  display: none;
+  max-width: 100%;
+}
+.product {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 62px;
+  z-index: 1;
+}
+.table-header-columns {
+  width: 243px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.price {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 41px;
+  z-index: 1;
+}
+.table-header-columns1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 11px 0 0;
+}
+.quantity,
+.total {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67px;
+  z-index: 1;
+}
+.total {
+  min-width: 40px;
+}
+.header,
+.table-divider {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.header {
+  border-radius: 5px;
+  background-color: #ade2a9;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15px 38px 13px;
+  gap: 146px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+}
+.table-divider {
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #545454;
+}
+.tag-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button8 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  display: inline-block;
+  font-family: Almarai;
+  color: #010007;
+  text-align: center;
+  min-width: 63px;
+}
+.tag-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button7 {
+  cursor: pointer;
+  border: 1px solid #010007;
+  padding: 14px 29px;
+  background-color: transparent;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.tag-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button10 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Almarai;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 67px;
+}
+.tag-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button9,
+.table-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button9 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 30px;
+  background-color: #4cff3c;
+  border-radius: 4px;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.table-buttons {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.discount-options,
+.table-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.table-actions {
+  align-self: stretch;
+  gap: 35px;
+}
+.discount-options {
+  flex: 1;
+  gap: 36px;
+  min-width: 640px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Almarai;
+}
+@media screen and (max-width: 1100px) {
+  .header {
+    gap: 73px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .table-actions {
+    gap: 17px;
+  }
+  .discount-options {
+    gap: 18px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .header {
+    gap: 36px;
+  }
+  .table-buttons {
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,250 @@
+.sign-in-to,
+.sign-in2 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-in2 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.sign-in-to {
+  font-size: 16px;
+  line-height: 135%;
+  color: #1c1c1c;
+}
+.credentials {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 1px;
+  gap: 12px;
+}
+.username1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Almarai;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 73px;
+}
+.password-mask-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.username-field {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 12px 7px 10px;
+  gap: 20px;
+}
+.password1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Almarai;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 69px;
+}
+.username-field-child {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.username-field1 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 16px 7px 10px;
+  gap: 20px;
+}
+.tag-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button6 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Almarai;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 47px;
+}
+.tag-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button5,
+.input-fields1 {
+  align-self: stretch;
+  display: flex;
+}
+.button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 8px 20px;
+  background-color: #ade2a9;
+  border-radius: 4px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.input-fields1 {
+  margin: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.or-sign-in {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 96px;
+}
+.social-options-icon3,
+.social-options-icon4,
+.social-options-icon5 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.social-auth {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 13px;
+}
+.sign-in-form,
+.sign-in1 {
+  display: flex;
+  max-width: 100%;
+}
+.sign-in-form {
+  width: 322px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.sign-in1 {
+  align-self: stretch;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 93px 0 92px;
+  box-sizing: border-box;
+}
+.sign-in-desktop,
+.sign-up2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-in-desktop {
+  flex: 1;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 144px 668px 143px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Almarai;
+}
+.sign-up2 {
+  width: 100%;
+  position: relative;
+  flex-direction: row;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 975px) {
+  .sign-in-desktop {
+    padding-left: 334px;
+    padding-right: 334px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .sign-in2 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .sign-in-desktop {
+    padding-top: 94px;
+    padding-bottom: 93px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 700px) {
+  .social-auth {
+    flex-wrap: wrap;
+  }
+  .sign-in1 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+  .sign-in-desktop {
+    padding-left: 167px;
+    padding-right: 167px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-in2 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .sign-in-form {
+    gap: 18px;
+  }
+}

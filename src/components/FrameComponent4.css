@@ -1,0 +1,76 @@
+.global-esim-solutions,
+.transform-your-business {
+  margin: 0;
+}
+.transform-your-business-container {
+  margin: 0;
+  align-self: stretch;
+  height: 72px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.4px;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.empower-your-team,
+.to-manage-esim-solutions {
+  margin: 0;
+}
+.empower-your-team-container {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.empower-your-team-with-seamles-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 5px;
+  font-size: 17px;
+}
+.button3 {
+  height: 54px;
+  width: 196.7px;
+}
+.button-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.transform-your-business-travel-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 32.3px;
+  text-align: center;
+  font-size: 34px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .transform-your-business-container {
+    font-size: 27px;
+    line-height: 29px;
+  }
+  .transform-your-business-travel-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .transform-your-business-container {
+    font-size: 20px;
+    line-height: 22px;
+  }
+}

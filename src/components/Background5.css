@@ -1,0 +1,143 @@
+.image-icon38 {
+  align-self: stretch;
+  height: 28px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 4.5px 0 0;
+  background-color: transparent;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  min-width: 91px;
+}
+.h2,
+.mohammed2 {
+  margin: 0;
+}
+.mohammed-h-txt-container2 {
+  line-break: anywhere;
+  width: 100%;
+}
+.mohammed-h2 {
+  height: 36px;
+  width: 79px;
+  position: relative;
+  letter-spacing: 0.05px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.container-icon18 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent53 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.top-app-for4,
+.traveling2 {
+  margin: 0;
+}
+.top-app-for-container7 {
+  width: 100%;
+}
+.top-app-for-container6 {
+  width: 230px;
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.and-have-no2,
+.coverege-and-speed2,
+.great-i-have2,
+.top-app-for5 {
+  margin: 0;
+}
+.top-app-for-container8 {
+  align-self: stretch;
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.74);
+}
+.top-app-for-the-international-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.5px;
+}
+.svg-icon85 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.verified-purchaser16 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 18px;
+}
+.svg-parent12 {
+  width: 160.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+  font-size: 12px;
+  color: rgba(12, 12, 13, 0.46);
+}
+.background40,
+.frame-parent54 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent54 {
+  align-self: stretch;
+  gap: 10px;
+  font-size: 17px;
+  color: #0c0c0d;
+}
+.background40 {
+  width: 289px;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  flex-shrink: 0;
+  padding: 11.5px 11px 14.5px 12px;
+  box-sizing: border-box;
+  gap: 24.5px;
+  debug_commit: bf4bc93;
+  text-align: left;
+  font-size: 14px;
+  color: rgba(12, 12, 13, 0.74);
+  font-family: Inter;
+}

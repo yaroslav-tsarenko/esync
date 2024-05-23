@@ -1,0 +1,227 @@
+.overlay-icon2 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: 8px;
+  min-height: 40px;
+}
+.central-asia {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 96.1px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.container12 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.countries3 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  display: inline-block;
+  min-width: 66.4px;
+}
+.container-parent9,
+.overlay-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.overlay-parent3 {
+  flex-direction: row;
+  gap: 16px;
+}
+.svg-icon50 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.central-asia-s-v-gs,
+.link-button15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.link-button15 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #eaeaea;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 16px;
+  gap: 20px;
+}
+.overlay-icon3 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: 8px;
+  object-fit: cover;
+  min-height: 40px;
+}
+.balkans,
+.countries4 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 62.2px;
+}
+.countries4 {
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  min-width: 72px;
+}
+.balkans-parent,
+.overlay-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.overlay-parent4 {
+  flex-direction: row;
+  gap: 16px;
+}
+.svg-icon51 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.svg-wrapper17 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.link-button16,
+.region-links,
+.svg-wrapper17 {
+  display: flex;
+  align-items: flex-start;
+}
+.link-button16 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #eaeaea;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 16px;
+  gap: 20px;
+}
+.region-links {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 12px;
+  min-width: 214px;
+  max-width: 100%;
+}
+.overlay-icon4 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  border-radius: 8px;
+  min-height: 40px;
+}
+.south-east-asia {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 124px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.container13 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.countries5 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  display: inline-block;
+  min-width: 66.4px;
+}
+.container-parent10,
+.overlay-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.overlay-parent5 {
+  flex-direction: row;
+  gap: 16px;
+}
+.svg-icon52 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.south-east-asia-s-v-g {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.link-button17,
+.region-grid {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.link-button17 {
+  flex: 0.903;
+  border-radius: 16px;
+  background-color: #eaeaea;
+  justify-content: space-between;
+  padding: 10px 16px;
+  box-sizing: border-box;
+  min-width: 214px;
+  gap: 20px;
+}
+.region-grid {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 12px;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .link-button17,
+  .region-links {
+    flex: 1;
+  }
+  .region-grid {
+    flex-wrap: wrap;
+  }
+}

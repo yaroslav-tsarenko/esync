@@ -1,0 +1,270 @@
+.heading-222 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.heading-2-countries-and-oper-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+}
+.albania1,
+.container-icon31 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.container-icon31 {
+  height: 32px;
+  width: 32px;
+  border-radius: 30px;
+  overflow: hidden;
+}
+.albania1 {
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 59.2px;
+}
+.albania-wrapper,
+.country-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.albania-wrapper {
+  flex-direction: column;
+  padding: 5px 0 0;
+}
+.country-item {
+  flex-direction: row;
+  gap: 16px;
+}
+.vodafone2 {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 65px;
+}
+.svg-icon143 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.svg-wrapper13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.operator-item {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 3.3px;
+}
+.link-button1,
+.operator-item,
+.operators2 {
+  display: flex;
+  align-items: flex-start;
+}
+.operators2 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+  text-align: right;
+  font-size: 14px;
+}
+.link-button1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 16px;
+  gap: 20px;
+  cursor: pointer;
+}
+.container-icon32,
+.container-icon33 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.country-name-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.algeria {
+  display: inline-block;
+  min-width: 56px;
+}
+.algeria,
+.american-virgin-islands {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+}
+.country-names {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 30px;
+}
+.country-item-container,
+.country-names,
+.country-names-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.country-names-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 5px 0 0;
+}
+.country-item-container {
+  width: 235.1px;
+  flex-direction: row;
+  gap: 16px;
+}
+.oreedowataniya-nedjma {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+}
+.svg-icon144 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.svg-wrapper14 {
+  flex-direction: column;
+  padding: 1px 0 0;
+}
+.operator-container,
+.operator-item-container,
+.svg-wrapper14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.operator-item-container {
+  flex-direction: row;
+  gap: 3.6px;
+}
+.operator-container {
+  flex-direction: column;
+  padding: 7px 0 0;
+  text-align: right;
+  font-size: 14px;
+}
+.countries-list,
+.countries-list-container,
+.country-list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.country-list-item {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.countries-list,
+.countries-list-container {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+.countries-list {
+  flex-direction: column;
+  padding: 0 0 6px;
+  gap: 10px;
+  font-size: 17px;
+}
+.all-countries2 {
+  width: 84.1px;
+  position: relative;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: Inter;
+  color: rgba(12, 12, 13, 0.74);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 84.1px;
+}
+.background53,
+.button7,
+.view-all-countries {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 20px 11px 21px;
+  background-color: rgba(144, 127, 111, 0.1);
+  flex: 1;
+  border-radius: 20px;
+  justify-content: center;
+}
+.button7:hover {
+  background-color: rgba(120, 102, 87, 0.1);
+}
+.background53,
+.view-all-countries {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 16px;
+}
+.background53 {
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 16px 0;
+  gap: 12px;
+  text-align: left;
+  font-size: 20px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 900px) {
+  .country-list-item,
+  .link-button1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-222 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .country-item {
+    flex-wrap: wrap;
+  }
+}

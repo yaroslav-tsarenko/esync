@@ -1,0 +1,312 @@
+.heading-217 {
+  position: relative;
+  font-size: 20px;
+  letter-spacing: -0.2px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.container-icon30 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.location-pricing {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.united-states {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 108px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.container22 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.month {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  display: inline-block;
+  min-width: 83px;
+}
+.country-names,
+.numbers-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.numbers-wrapper {
+  flex-direction: row;
+  gap: 16px;
+}
+.svg-icon88 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.numbers-content,
+.other-countries {
+  display: flex;
+  align-items: flex-start;
+}
+.other-countries {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.numbers-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.container-icon31 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container-wrapper7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.netherlands {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 98px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.container23 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.month1 {
+  position: relative;
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  display: inline-block;
+  min-width: 83px;
+}
+.container-parent18,
+.frame-parent65 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.frame-parent65 {
+  flex-direction: row;
+  gap: 16px;
+}
+.svg-icon89 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.numbers-content1,
+.svg-wrapper25 {
+  display: flex;
+  align-items: flex-start;
+}
+.svg-wrapper25 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.numbers-content1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.container-icon32 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container-wrapper8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.canada,
+.month2 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 61.2px;
+}
+.month2 {
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  min-width: 83px;
+}
+.canada-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 2px;
+  min-width: 401px;
+  max-width: 100%;
+}
+.svg-icon90 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.more-countries,
+.numbers-content2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.more-countries {
+  flex-direction: column;
+  padding: 14px 0 0;
+}
+.numbers-content2 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  max-width: 100%;
+}
+.container-icon33 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-wrapper9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+}
+.israel,
+.month3 {
+  position: relative;
+  letter-spacing: -0.12px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 43.1px;
+}
+.month3 {
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  color: rgba(12, 12, 13, 0.46);
+  min-width: 83px;
+}
+.israel-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 2px;
+  min-width: 401px;
+  max-width: 100%;
+}
+.svg-icon91 {
+  width: 7px;
+  height: 12px;
+  position: relative;
+}
+.numbers-content3,
+.section13,
+.svg-wrapper26 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svg-wrapper26 {
+  flex-direction: column;
+  padding: 14px 0 0;
+}
+.numbers-content3,
+.section13 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.numbers-content3 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.section13 {
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 16px 16px 18px;
+  box-sizing: border-box;
+  gap: 20.5px;
+  text-align: left;
+  font-size: 17px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .canada-parent,
+  .israel-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-217 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+}

@@ -1,0 +1,76 @@
+.globalesync1,
+.our-users-feedback1 {
+  margin: 0;
+}
+.our-users-feedback-container1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.1px;
+  line-height: 32px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.button-svg12,
+.button-svg13 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  min-height: 40px;
+}
+.button-svg13 {
+  object-fit: contain;
+}
+.review-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.feedback-buttons1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 11.5px;
+}
+.feedback,
+.feedback-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.feedback-heading {
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 36.5px;
+}
+.feedback {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 24px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 24px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+@media screen and (max-width: 900px) {
+  .feedback-heading {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-users-feedback-container1 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .review-buttons {
+    flex-wrap: wrap;
+  }
+}

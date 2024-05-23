@@ -1,0 +1,362 @@
+.image-icon {
+  height: 320px;
+  width: 260px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.expertise-content-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 76.8px;
+  max-width: 100%;
+}
+.heading-2,
+.m,
+.used-data-gb {
+  position: relative;
+  line-height: 32px;
+}
+.heading-2 {
+  margin: 0;
+  font-size: inherit;
+  letter-spacing: -0.1px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.m,
+.used-data-gb {
+  display: inline-block;
+  min-width: 71px;
+}
+.used-data-gb {
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  min-width: 85px;
+}
+.paragraphbackground {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 12px;
+  box-sizing: border-box;
+  min-width: 144px;
+}
+.m1,
+.total-days-used {
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+  min-width: 71.4px;
+}
+.total-days-used {
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+  min-width: 94px;
+}
+.paragraphbackground1 {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 12px;
+  box-sizing: border-box;
+  min-width: 149px;
+}
+.active-users,
+.k {
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+  min-width: 74px;
+}
+.active-users {
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.data-highlights,
+.paragraphbackground2,
+.section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paragraphbackground2 {
+  width: 209.9px;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  flex-direction: column;
+  padding: 10px 12px;
+  box-sizing: border-box;
+}
+.data-highlights,
+.section {
+  align-self: stretch;
+}
+.data-highlights {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  font-size: 28px;
+}
+.section {
+  border-radius: 24px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 23.5px 24px 80px;
+  gap: 16.5px;
+}
+.heading-21 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.1px;
+  line-height: 32px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.all-around-the,
+.are-connecting-the,
+.empower-our-business,
+.innovation-and-excellence {
+  margin: 0;
+}
+.innovation-and-excellence-container {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+}
+.image-icon1 {
+  height: 74px;
+  width: 85px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background,
+.belief-images {
+  display: flex;
+  align-items: flex-start;
+}
+.belief-images {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.background {
+  width: 180px;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 9.5px 8px 42px 12px;
+  box-sizing: border-box;
+  gap: 16.5px;
+}
+.about-meeting-their,
+.customers-drive-our,
+.emotions-and-flawless,
+.journey,
+.success-our-business {
+  margin: 0;
+}
+.customers-drive-our-container {
+  height: 80px;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.image-icon2 {
+  height: 74px;
+  width: 85px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background1,
+.image-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.image-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.background1 {
+  width: 180px;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 9.5px 8px 26px 12px;
+  box-sizing: border-box;
+  gap: 16.5px;
+}
+.communication-whenever-and,
+.freedom-and-convenience,
+.happier-our-user-friendly,
+.need-or-want,
+.our-customers-the,
+.wide-ranging-seamless-coverage {
+  margin: 0;
+}
+.freedom-and-convenience-container {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 16px;
+}
+.image-icon3 {
+  height: 74px;
+  width: 85px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.background2 {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #eaeaea;
+  flex-direction: column;
+  padding: 9.5px 8px 10px 12px;
+  box-sizing: border-box;
+  gap: 16.5px;
+  min-width: 195px;
+}
+.background2,
+.beliefs-content,
+.section-parent,
+.section1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.beliefs-content {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  font-size: 12px;
+}
+.section-parent,
+.section1 {
+  flex-direction: column;
+}
+.section1 {
+  align-self: stretch;
+  border-radius: 24px;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 23.5px 24px 48px;
+  gap: 16.5px;
+  z-index: 1;
+}
+.section-parent {
+  width: 720px;
+  max-width: 100%;
+}
+.container1 {
+  width: 1920px;
+  height: 92px;
+  position: relative;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+}
+.httpsyesimappabout-us-,
+.our-mission {
+  display: flex;
+  justify-content: flex-start;
+}
+.httpsyesimappabout-us- {
+  flex: 1;
+  background-color: #eaeaea;
+  overflow-y: auto;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 20px 0;
+  box-sizing: border-box;
+  gap: 56px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #0c0c0d;
+  font-family: Inter;
+}
+.our-mission {
+  width: 100%;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .httpsyesimappabout-us- {
+    padding-top: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .image-icon {
+    flex: 1;
+  }
+  .expertise-content-parent {
+    flex-wrap: wrap;
+    gap: 38px;
+  }
+  .httpsyesimappabout-us- {
+    gap: 28px;
+    padding-top: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .expertise-content-parent {
+    gap: 19px;
+  }
+  .heading-2 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .heading-21,
+  .k,
+  .m,
+  .m1 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .heading-21 {
+    font-size: 19px;
+  }
+}
